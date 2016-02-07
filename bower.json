@@ -1,0 +1,21 @@
+{
+  "name": "hello-polymer",
+  "version": "0.0.1",
+  "description": "Personal playground for polymer",
+  "authors": [
+    "Theo Pack"
+  ],
+  "license": "MIT",
+  "homepage": "http://furikuri.net",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  }
+}
